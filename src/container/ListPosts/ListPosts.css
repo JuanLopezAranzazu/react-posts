@@ -1,5 +1,17 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
 .list-posts {
   display: flex;
   flex-direction: column;
+  gap: 1rem;
+}
+
+.search-posts {
+  display: flex;
+  flex-direction: row;
   gap: 1rem;
 }

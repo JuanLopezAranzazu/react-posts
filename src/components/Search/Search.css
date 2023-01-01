@@ -1,0 +1,16 @@
+.search {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  justify-content: space-between;
+  padding: 0 1rem;
+  align-items: center;
+  background-color: rgb(24, 24, 24);
+  color: #fff;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.search:hover {
+  background-color: rgb(49, 49, 49);
+}

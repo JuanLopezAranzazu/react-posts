@@ -38,7 +38,6 @@ const Header = () => {
           >
             <span className="material-icons">account_circle</span>
           </button>
-
           <button
             type="button"
             className="icon-button"
