@@ -1,0 +1,30 @@
+.list-notification {
+  outline: none;
+  z-index: 2202;
+  position: fixed;
+  left: 150px;
+  top: 8px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+  background-color: rgb(41, 41, 41);
+  color: #fff;
+  width: 400px;
+  height: 500px;
+}
+
+.header-list-notification {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  padding: 1rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.content-list-notification {
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+}
+

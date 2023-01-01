@@ -1,0 +1,11 @@
+.publication {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+  border-radius: 8px;
+  border: 1px solid #d0d7de;
+  width: 400px;
+}
